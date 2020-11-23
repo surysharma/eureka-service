@@ -1,0 +1,5 @@
+= Spring-boot Eureka server
+
+A eureka server is created by adding the `@EnableEurekaServer` to the spring-boot application.
+
+The application.properties is also updated to
